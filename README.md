@@ -17,3 +17,6 @@ For the frontend it is enough to run
 to install all dependencies. Then, one can run frontend on `localhost:3000` by issuing
 
 `npm start`
+TODO:
+- implement vuejs and vuetify
+- check vuestore
